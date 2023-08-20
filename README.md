@@ -7,7 +7,16 @@ O EC2 é um tipo de serviço da AWS que disponibiliza uma VM a partir de uma ima
 ## Objetivo
 O objetivo desse relatório é documentar passo a passo a criação de uma instância EC2 e seu acesso por SSH. Esse conhecimento será útil para a realização do projeto, visto que é uma das formas de acessar um servidor para realizar o deploy da aplicação.
 
-## Desenvolvimento
+## Materiais
+Para a realização dos passos presentes neste relatório, são necessários:
+
+**Navegador Web**: Google Chrome, Microsoft Edge ou similares.
+
+**Conta AWS**: Conta AWS academy com acesso à criação de instâncias ou uma conta padrão AWS com acesso liberado à criação de instâncias.
+
+**Serviço SSH**: Corretamente instalado e configurado, o serviço SSH permitirá a conexão com a instância criada.
+
+## Métodos
 A seguir estão os passos para a criação de uma instância EC2 e seu acesso por SSH.
 
 ### Criação da instância EC2
