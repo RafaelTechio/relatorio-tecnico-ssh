@@ -70,7 +70,7 @@ Em tags serão mostradas as tags do sistema. Tags são uma forma de categorizar 
 ![21](https://github.com/RafaelTechio/relatorio-tecnico-ssh/assets/110608373/5f49e65b-cd2e-437b-9035-86c2d80b7a27)
 
 ## Resultados
-Como resultado dos passos desse relatório, uma instância de IP XXX foi criada e acessada por meio de SSH por um computador local usando a rede da faculdade Inteli.
+Como resultado dos passos desse relatório, uma instância de IP 18.212.69.93 foi criada e acessada por meio de SSH por um computador local usando a rede da faculdade Inteli.
 
 ## Conclusão
 Seguindo os passos contidos nesse relatório, é possível criar uma máquina virtual e acessá-la de modo a disponibilizar aplicações para a web.
